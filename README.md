@@ -1,3 +1,3 @@
 # algorithms
 
-# written in Java
+# I mostly used Java to solve the questions
